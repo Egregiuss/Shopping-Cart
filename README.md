@@ -1,3 +1,3 @@
 # John Smilga's React Project
 
-## Project 09 - Color Generator
+## Project 14 - Shopping Cart
